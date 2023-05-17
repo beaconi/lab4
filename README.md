@@ -5,7 +5,7 @@
 > > > > андроид студио не моё
 > > > я нашел то что абсолютно не мое 
 > > и по моему дело не во мне 
->bb
+> bb ;
 
 [![барабарабара](https://i.ytimg.com/vi/G2PLJxPsp54/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIEEofzAP&rs=AOn4CLDOMGz8Ui7c5qrPcOZh4IjDULE5Qg)]("береберебере")
 
