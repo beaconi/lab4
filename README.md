@@ -7,10 +7,10 @@
 > > и по моему дело не во мне 
 
 
-![барабарабара](https://i.ytimg.com/vi/G2PLJxPsp54/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIEEofzAP&rs=AOn4CLDOMGz8Ui7c5qrPcOZh4IjDULE5Qg)("береберебере")
+[![барабарабара](https://i.ytimg.com/vi/G2PLJxPsp54/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIEEofzAP&rs=AOn4CLDOMGz8Ui7c5qrPcOZh4IjDULE5Qg)]("береберебере")
 
 
-![шоу трумана](https://i.ytimg.com/vi/katc6Z-fvow/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIFcoZTAP&rs=AOn4CLDXhBtGAapwIe1mD7uwecosXFQjVg)(https://www.youtube.com/watch?v=katc6Z-fvow)
+[![шоу трумана](https://i.ytimg.com/vi/katc6Z-fvow/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIFcoZTAP&rs=AOn4CLDXhBtGAapwIe1mD7uwecosXFQjVg)](https://www.youtube.com/watch?v=katc6Z-fvow)
 
 
 :white_check_mark:
