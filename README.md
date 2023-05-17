@@ -14,12 +14,12 @@
 
 [![барабарабара](https://i.ytimg.com/vi/G2PLJxPsp54/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgTIEEofzAP&rs=AOn4CLDOMGz8Ui7c5qrPcOZh4IjDULE5Qg)]("береберебере")
 
-# мой любимый фильм
-[![](https://i.ytimg.com/vi/katc6Z-fvow/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIFcoZTAP&rs=AOn4CLDXhBtGAapwIe1mD7uwecosXFQjVg)](https://www.youtube.com/watch?v=katc6Z-fvow)
+
+[![ # мой любимый фильм ](https://i.ytimg.com/vi/katc6Z-fvow/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhQIFcoZTAP&rs=AOn4CLDXhBtGAapwIe1mD7uwecosXFQjVg)](https://www.youtube.com/watch?v=katc6Z-fvow)
 
 
 :white_check_mark:
-[![ чмо ](https://img.youtube.com/vi/RHPYGwVQB2o/0.jpg)](https://youtu.be/RHPYGwVQB2o)
+
 
 
 
